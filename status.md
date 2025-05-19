@@ -1,8 +1,8 @@
 This is a status log for group 2 about a Baseball Simulator project.
 
-# Team: Group 2
+## Team: Group 2
 
-# Time: May 19
+## Time: May 19
 
 teration 1 (2025-05-18)
 
