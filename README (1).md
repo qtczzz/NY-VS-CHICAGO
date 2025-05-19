@@ -65,7 +65,3 @@ All stats are accessed via the official [MLB Stats API](https://statsapi.mlb.com
 - Expand simulation to cover playoff series or entire seasons.
 - Include home-field effects.
 
-## 📧 Contact
-Created by [Your Name]  
-MS in Data Science, Northwestern University  
-Email: yourname@u.northwestern.edu
