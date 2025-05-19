@@ -30,6 +30,27 @@ This project simulates full 9-inning baseball games between the **Chicago White 
   - Win rate and tie rate
   - Standard deviation of scores
 
+## 📈 Results Interpretation
+
+### 🏆 Win Rate Summary
+After simulating 10,000 full 9-inning games using real player statistics:
+
+- **Team A (White Sox)** won **27.47%** of the games  
+- **Team B (Yankees)** won **59.98%** of the games  
+- **Ties** occurred in **12.55%** of the simulations
+
+This suggests that based on current season performance, the Yankees demonstrate a statistically significant edge in scoring and consistency, although ties remain a notable possibility due to game variability.
+
+### 📊 Distribution Insights
+A histogram of the run differential (Team A score - Team B score) reveals a left-skewed distribution. This indicates that:
+
+- The Yankees not only win more often, but tend to do so by larger margins.
+- Games where the White Sox win are less frequent and generally closer in score.
+- There is meaningful overlap in mid-range outcomes, reinforcing the probabilistic nature of baseball even with unevenly matched teams.
+
+These insights provide a data-driven view of relative team strength and support further analysis of player-level contributions or simulation-based strategy optimization.
+
+
 ## 🗃️ Data Sources
 Player data is pulled from:
 - [Chicago White Sox Stats](https://www.mlb.com/whitesox/stats)
