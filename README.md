@@ -1,3 +1,3 @@
 # NY-VS-CHICAGO
 
-Data sources: 
+Data sources: https://www.mlb.com/stats/
