@@ -51,7 +51,7 @@ All stats are accessed via the official [MLB Stats API](https://statsapi.mlb.com
 │
 ├── baseball_sim.ipynb           # Final simulation notebook
 ├── README.md                    # This file
-└── mlb_batting_stats.csv (opt)  # Offline input version of batter stats
+└── activity_list.md             # Each team member's github activity log
 ```
 
 ## 📌 Assumptions & Notes
