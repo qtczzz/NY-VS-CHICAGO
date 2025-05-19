@@ -28,4 +28,40 @@ Run differentials (White Sox - Yankees)
 
 Win, loss, and tie percentages
 
+### Iteration 2 (2025-05-19)
+
+Finalized full simulation engine in baseball_sim.ipynb:
+
+Simulates 10,000 complete 9-inning games between White Sox and Yankees.
+
+Uses real batter statistics for probabilistic outcome generation.
+
+Lineups cycle through all 9 innings with accurate score tracking.
+
+Generated all key analysis outputs:
+
+Histogram of team run distributions.
+
+Run differential plots.
+
+Bar chart of win/loss/tie rates.
+
+Average runs per inning trendline.
+
+Validated simulation consistency:
+
+Repeated runs showed stable average scores and outcome rates.
+
+Output metrics align with expected variance from real-world data.
+
+Organized project structure:
+
+Final notebook: baseball_sim.ipynb
+
+All functions modularized for reuse.
+
+Plots embedded and exported as PNGs for reporting.
+
+
+
 
