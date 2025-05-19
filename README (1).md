@@ -26,7 +26,7 @@ This project simulates full 9-inning baseball games between the **Chicago White 
 - Run distributions per team over 10,000 games
 - Run differential histogram (Team A - Team B)
 - Calculation of:
-  - `平均每局得分 (average runs per inning)` for each team
+  - `Average runs per inning` for each team
   - Win rate and tie rate
   - Standard deviation of scores
 
