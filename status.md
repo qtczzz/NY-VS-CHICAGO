@@ -4,7 +4,7 @@ This is a status log for group 2 about a Baseball Simulator project.
 
 ## Time: May 19
 
-teration 1 (2025-05-18)
+teration 1 (2025-05-19)
 
 ### Current Task: Search and Visualize Player Stats
 
